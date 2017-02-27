@@ -1,0 +1,8 @@
+[
+    {"cid":1,"open":true, "pid":null, "cname":"test1"},
+    {"cid":11, "pid":1, "cname":"test11","url":"http://www.baidu.com","target":"body"},
+    {"cid":12, "pid":1, "cname":"test12"},
+    {"cid":2,"open":true, "pid":null, "cname":"test2"},
+    {"cid":21, "pid":2, "cname":"test21"},
+    {"cid":22, "pid":2, "cname":"test22"}
+]
